@@ -1,0 +1,7 @@
+site_name: My Test Documentation
+
+plugins:
+  - search
+  - mkdocstrings
+dev_addr: 'localhost:8080'
+
